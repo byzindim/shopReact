@@ -20,7 +20,7 @@ function App() {
         <div className="headerRight">
           <div>
             <img src = {cart} className="cartIcon" />
-            <span className="price">1205 руб.</span>
+            <span className="price">120 руб.</span>
           </div>
           <div>
           <img src = {heart} className="heartIcon" />
